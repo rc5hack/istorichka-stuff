@@ -1,4 +1,5 @@
 // public domain
+
 (function (w, d){
 
 if (w.lk) return;
@@ -26,7 +27,7 @@ lk = {
     // Ссылка на сайт в заголовке
     siteurl:  'http://forum.istorichka.ru/cgi-bin/yabb2/YaBB.pl',
     // Надпись на кнопке голосования
-    votename: 'Подписать петицию',                  
+    votename: 'Подписать петицию',
     // Адрес петиции
     voteurl:  'http://www.onlinepetition.ru/%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C-%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0---292521-6-/petition.html',
     // Основной текст страницы
@@ -65,7 +66,7 @@ lk = {
         <a href="javascript:void(0)" id="lk-l"></a> \
         <a href="javascript:void(0)" id="lk-b"></a> \
       </div> \
-      <div class="lk-note">Разместите <a target="_blank" href="https://github.com/imShara/jslock">такую же страничку</a> на своем личном сайте</div> \
+      <div class="lk-note">Разместите <a target="_blank" href="https://github.com/imShara/jslock">такую&nbsp;же страничку</a> на своем личном сайте</div> \
       </div> \
     </div> \
     </div>',
